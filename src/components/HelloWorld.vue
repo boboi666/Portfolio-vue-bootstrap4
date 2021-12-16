@@ -19,7 +19,7 @@
     <div class="jumbotron jumbotron-fluid">
       <div class="container text-center">
         <img src="../assets/fallout.jpg" alt="me" />
-        <h1 class="display-4">Rayhandhika</h1>
+        <h1 class="display-4">Rayhandhika yusuf</h1>
         <p class="lead">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odit a expedita itaque hic voluptatem nisi suscipit dolor corrupti odio eligendi at velit earum, autem quaerat fuga esse, sapiente consequuntur eius?</p>
       </div>
     </div>
